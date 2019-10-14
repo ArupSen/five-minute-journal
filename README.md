@@ -1,4 +1,4 @@
-###5 Minute Journal
+### 5 Minute Journal
 
 Having read about the five minute journal rather than just getting the physical book or the mobile app, I thought that it would make a nice personal programming project for me and I could also tweak it a little to suit my own needs. I am going to be implementing this using ruby and storing journal pages as csv files.
 

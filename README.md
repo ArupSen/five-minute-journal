@@ -3,7 +3,7 @@
 Having read about the five minute journal rather than just getting the physical book or the mobile app, I thought that it would make a nice personal programming project for me and I could also tweak it a little to suit my own needs. I am going to be implementing this using ruby and storing journal pages as csv files.
 
 - text based command line program
-- shows a random daily quote persistent for that day (as file is updated)
+- shows daily quote according to that days date
 - daily quote remains visible while user input occurs
 - quotes come from a csv file
 - prompts user for entries to each section
